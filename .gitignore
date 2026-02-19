@@ -1,2 +1,3 @@
 venv
 data/datatype.py
+__pycache__
