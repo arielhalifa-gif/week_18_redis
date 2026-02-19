@@ -11,4 +11,4 @@ def alerts_by_border_and_priority():
 
 @app.get("/analytics/top-urgent-zones")
 def top_urgent_zones():
-    
+    pass
